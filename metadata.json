@@ -1,0 +1,8 @@
+{
+  "name": "E-Absensi SDN Indonesia",
+  "description": "Sistem informasi absensi modern untuk guru dan staf SD Negeri Indonesia dengan fitur rekapitulasi real-time dan analisis kehadiran cerdas.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
